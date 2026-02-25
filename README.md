@@ -1,56 +1,117 @@
-👋 Hi, I'm Mohammad Sayed Qazi Zada
+<!-- ================= HEADER ================= -->
 
-🚀 Flutter & Full-Stack Engineer
-Building scalable apps from Idea → Production
+<h1 align="center">
+  👋 Hi, I'm Mohammad Sayed Qazi Zada
+</h1>
 
-I specialize in crafting high-performance mobile & web applications with clean architecture, secure backend systems, and production-ready deployments.
+<h3 align="center" style="color:#1E90FF;">
+🚀 Flutter & Full-Stack Engineer | Idea → Production
+</h3>
 
-💡 What I Do
+<p align="center">
+Building scalable mobile & web applications with clean architecture,
+secure backend systems & production-ready deployments.
+</p>
 
-📱 Cross-platform app development with Flutter
+---
 
-🧠 Backend APIs with Python (FastAPI, Django) & Node/Deno
+<!-- ================= WHAT I DO ================= -->
 
-🔐 Authentication & Realtime systems using Supabase & Firebase
+<div style="border:2px solid #1E90FF; border-radius:12px; padding:20px; margin:15px 0;">
 
-🌐 Modern frontend with React, Svelte, TypeScript
+<h2>💡 What I Do</h2>
 
-🗄 Database design with PostgreSQL & SQLite
+- 📱 Cross-platform app development with **Flutter**
+- 🧠 Backend APIs with **Python (FastAPI, Django)** & **Node/Deno**
+- 🔐 Authentication & Realtime systems using **Supabase** & **Firebase**
+- 🌐 Modern frontend with **React, Svelte, TypeScript**
+- 🗄 Database design with **PostgreSQL & SQLite**
+- ☁️ Deployment & cloud hosting (**Vercel, VPS, Docker**)
 
-☁️ Deployment & cloud hosting (Vercel, VPS, Docker)
+</div>
 
-🛠 Tech Stack
+---
 
-Mobile:
-Flutter, Dart, Drift (SQLite), Supabase SDK
+<!-- ================= TECH STACK ================= -->
 
-Backend:
-FastAPI, Django, Flask, Node.js, Deno
+<div style="border:2px solid #FF8C00; border-radius:12px; padding:20px; margin:15px 0;">
 
-Frontend:
-React, Svelte, TypeScript, JavaScript, TailwindCSS
+<h2>🛠 Tech Stack</h2>
 
-Database & Cloud:
-PostgreSQL, Supabase, Firebase, Docker
+**📱 Mobile**
+Flutter • Dart • Drift (SQLite) • Supabase SDK  
 
-🔥 Current Focus
+**⚙ Backend**
+FastAPI • Django • Flask • Node.js • Deno  
 
-Scalable microservice architecture
+**🌐 Frontend**
+React • Svelte • TypeScript • JavaScript • TailwindCSS  
 
-Offline-first Flutter apps with sync
+**🗄 Database & Cloud**
+PostgreSQL • Supabase • Firebase • Docker  
 
-Secure Supabase production setups
+</div>
 
-AI-integrated applications
+---
 
-🌍 Projects & Vision
+<!-- ================= CURRENT FOCUS ================= -->
 
-Founder of DevPath — teaching practical programming & real-world development.
-Building production-ready systems for finance, delivery, e-commerce & smart platforms.
+<div style="border:2px solid #1E90FF; border-radius:12px; padding:20px; margin:15px 0;">
 
-📫 Connect With Me
+<h2>🔥 Current Focus</h2>
 
-🌐 Portfolio: www.msayedq.dev
+- Scalable microservice architecture  
+- Offline-first Flutter apps with sync  
+- Secure Supabase production setups  
+- AI-integrated applications  
 
-📘 Facebook: Dev-Path
-🎵 TikTok: @devpath.me
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<div style="border:2px solid #FF8C00; border-radius:12px; padding:20px; margin:15px 0;">
+
+<h2>🌍 Projects & Vision</h2>
+
+Founder of <b>DevPath</b> — teaching practical programming & real-world development.  
+
+Building production-ready systems for:
+- 💰 Finance Platforms  
+- 🚚 Delivery Systems  
+- 🛒 E-commerce  
+- 📊 Smart Business Tools  
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MSayedQ&show_icons=true&theme=blueberry&title_color=1E90FF&icon_color=FF8C00" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSayedQ&layout=compact&theme=blueberry&title_color=1E90FF&text_color=FFFFFF" height="180"/>
+</p>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<div style="border:2px solid #1E90FF; border-radius:12px; padding:20px; margin:15px 0;">
+
+<h2>📫 Connect With Me</h2>
+
+🌐 Portfolio: https://www.msayedq.dev  
+📘 Facebook: Dev-Path  
+🎵 TikTok: @devpath.me  
+
+</div>
+
+---
+
+<p align="center">
+💙 Code. Build. Scale. Repeat. 🟠
+</p>
