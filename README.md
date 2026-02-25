@@ -105,7 +105,7 @@ Building production-ready systems for:
 <h2>📫 Connect With Me</h2>
 
 🌐 Portfolio: https://www.msayedq.dev  
-📘 Facebook: Dev-Path  
+📘 Facebook-Instagram: DevPath.me  
 🎵 TikTok: @devpath.me  
 
 </div>
