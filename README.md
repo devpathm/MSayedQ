@@ -87,18 +87,6 @@ Building production-ready systems for:
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSayedQ&show_icons=true&theme=blueberry&title_color=1E90FF&icon_color=FF8C00" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSayedQ&layout=compact&theme=blueberry&title_color=1E90FF&text_color=FFFFFF" height="180"/>
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
 
 <div style="border:2px solid #1E90FF; border-radius:12px; padding:20px; margin:15px 0;">
 
