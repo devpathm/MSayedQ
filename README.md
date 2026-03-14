@@ -42,7 +42,7 @@ secure backend systems & production-ready deployments.
 Flutter • Dart • Drift (SQLite) • Supabase SDK  
 
 **⚙ Backend**
-FastAPI • Django • Flask • Node.js • Deno  
+FastAPI • Django • NestJs • Node.js • Deno 
 
 **🌐 Frontend**
 React • Svelte • TypeScript • JavaScript • TailwindCSS  
